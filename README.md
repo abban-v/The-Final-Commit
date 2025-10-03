@@ -1,9 +1,12 @@
-# 🛠️ PROJECT TITLE: [INSERT YOUR CREATIVE TITLE HERE]
+# 🛠️ PROJECT TITLE: ExterFood
 
 ## Idea Abstract
 
-**[INSERT CONCISE 2-3 SENTENCE SUMMARY HERE]**
-*Example: Our solution is a simple, real-time ordering system built for the Civil Canteen using Firebase. It provides students with a seamless ordering interface and gives staff immediate order verification tools.*
+Our solution addresses the major problems faced by Civil Canteen
+<p><b>1. Lack of food variety in the canteen</b></p>
+<p><b>2. Lack of management and long physical queues.</b></p>
+<p>Therefore, what we plan to make is an app for both users and management in the canteen to not only have a platform for users to order and management to track those orders, but also a fully fledged system wherein users can order new dishes and chefs can see the recipes in real time and give feedback instantly on whether the dish can be created or not.</p>
+<p>This will boost popularity considerably as it will lead to new dishes according to the wish of the user, while still mantaining an online queue for the same.</p>
 
 ---
 
@@ -11,8 +14,8 @@
 
 | Role | Name | GitHub Profile |
 | :--- | :--- | :--- |
-| **Team Member 1** | [Your Full Name Here] | [@YourGitHubUsername](link to your GitHub profile) |
-| **Team Member 2** | [Your Partner's Full Name Here] | [@PartnerGitHubUsername](link to partner's GitHub profile) |
+| **Team Member 1** | Abban C Varughese | [@abban-v] github.com/abban-v |
+| **Team Member 2** | Afthab N | [@PartnerGitHubUsername](link to partner's GitHub profile) |
 
 ---
 
