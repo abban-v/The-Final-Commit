@@ -54,4 +54,4 @@ The link below leads to our mandatory video presentation, which is **not longer 
 
 ## ⚙️ How to Run Locally
 
-Download the apk file and run it.
+Download the apk file and run it from actions tab.
