@@ -15,7 +15,7 @@ Our solution addresses the major problems faced by Civil Canteen
 | Role | Name | GitHub Profile |
 | :--- | :--- | :--- |
 | **Team Member 1** | Abban C Varughese | [@abban-v] github.com/abban-v |
-| **Team Member 2** | Afthab N | [@PartnerGitHubUsername](link to partner's GitHub profile) |
+| **Team Member 2** | Afthab N |  |
 
 ---
 
@@ -39,11 +39,6 @@ The link below leads to our mandatory video presentation, which is **not longer 
 
 ➡️ **YouTube Video Link:** **[INSERT YOUR PUBLIC YOUTUBE LINK HERE]**
 
-### 2. Live Deployment (If Applicable)
-
-Access the live prototype here. (If not deployed, please state 'N/A' or remove this section).
-
-➡️ **Live Demo Link:** [Insert Vercel/Netlify/Render Link Here]
 
 ---
 
@@ -51,34 +46,12 @@ Access the live prototype here. (If not deployed, please state 'N/A' or remove t
 
 | Category | Technologies Used | Notes |
 | :--- | :--- | :--- |
-| **Frontend** | [e.g., React, Next.js, HTML/CSS] | [e.g., Styled with Tailwind CSS, uses shadcn/ui] |
-| **Backend/Server** | [e.g., Node.js/Express, Python/Flask, N/A] | [e.g., Managed API endpoints/logic] |
-| **Database/BaaS** | [e.g., Firebase Firestore, Supabase, PostgreSQL] | [e.g., Used for storing menu and orders] |
+| **Frontend** | React | [e.g., Styled with Tailwind CSS, uses shadcn/ui] |
+| **Backend/Server** | Node.js | MongoDB |
+| **Database/BaaS** | MongoDB | Used for storing menu, orders, dish requests,etc. |
 
 ---
 
 ## ⚙️ How to Run Locally
 
-If a judge needs to run your project on their machine, provide clear steps here:
-
-1.  **Clone Your Forked Repository:**
-    ```bash
-    git clone [Your Forked Repo URL]
-    ```
-2.  **Install Dependencies:**
-    ```bash
-    cd your-repo-name
-    npm install  # or yarn install / pip install -r requirements.txt
-    ```
-3.  **Setup Environment Variables (Mandatory for DB/Auth):**
-    * Create a file named `.env` in the root directory.
-    * Add your API keys or database connection strings here:
-        ```
-        REACT_APP_FIREBASE_API_KEY=YOUR_KEY
-        NODE_ENV=development
-        # etc.
-        ```
-4.  **Start the Application:**
-    ```bash
-    npm run dev # or specific start command
-    ```
+Download the apk file and run it.
