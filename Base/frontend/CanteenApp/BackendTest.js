@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-const API_URL = 'http://localhost:5000/'; // Change to your backend URL if needed
+const API_URL = 'http://10.45.210.167:5000'; // Change to your backend URL if needed
 
 export default function BackendTest() {
   const [message, setMessage] = useState('Connecting...');
